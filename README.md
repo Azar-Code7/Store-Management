@@ -4,6 +4,8 @@ A console-based store management system built with Python and SQLite.
 
 This project was created as a personal practice project to work with relational databases, CRUD operations, transactions, inventory management, and order processing.
 
+![Store Management Screenshot](screenshot.png)
+
 ## Features
 
 * Customer management
